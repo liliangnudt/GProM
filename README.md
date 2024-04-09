@@ -1,5 +1,5 @@
-# G-DNO
-The code for preprint "G-DNO: Generalized Denoising Multi-view Bipartite Graph Clustering" is coming soon.    
+# GAID
+The code for preprint "GAID: Generalized ab Initio Denoising for Multi-view Bipartite Graph Clustering" is coming soon.    
 
 Any discussions or concerns are welcomed! Please contact me via e-mail: liliang1037@gmail.com  
 
