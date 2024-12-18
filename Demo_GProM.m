@@ -3,9 +3,7 @@ clc;
 warning off;
 path = addpath(genpath('./'));
 
-% Remark: We release the strongest option GAIR-LG in our framework.
-% If the reviewers need the codes of other options, please leave us comments
-% and we will provide in the rebuttal.
+% Remark: We release the strongest option GProM-LG in our framework.
 
 %% dataset
 Dataset_Name = {'Dermatology'};
